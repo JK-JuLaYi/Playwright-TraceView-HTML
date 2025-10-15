@@ -15,7 +15,7 @@ setup(
     install_requires=[],
     entry_points={
         "console_scripts": [
-            "playwright-trace-server=trace_server.generator:main",
+            "playwright-traceview-html=trace_server.html_generator:main",
         ],
     },
     python_requires=">=3.11",
