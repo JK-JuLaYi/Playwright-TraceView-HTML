@@ -17,22 +17,18 @@ A lightweight Python tool that scans your Playwright test results, generates a c
 ```bash
 pip install playwright-traceview-html
 ```
-
-
 ---
-Usage
+
+
+
+: Usage :
+---------
 
 Run this command from your Playwright project root (after test run):
 
 playwright-traceview-html
 
-It will:
-
-Look for your test-results/ folder
-
-Generate html_report.html
-
-Open the dashboard in your browser automatically
+It will look for your test-results/ folder then generate html_report.html opens the dashboard in your browser automatically
 
 
 You’ll see something like:
