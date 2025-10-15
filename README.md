@@ -24,7 +24,7 @@ Usage
 
 Run this command from your Playwright project root (after test run):
 
-playwright-trace-server
+playwright-traceview-html
 
 It will:
 
