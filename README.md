@@ -28,15 +28,15 @@ Run this command from your Playwright project root (after test run):
 
 playwright-traceview-html
 
-It will look for your test-results/ folder then generate html_report.html opens the dashboard in your browser automatically
+It will look for your `test-results/` folder then generate `html_report.html` opens the dashboard in your browser automatically
 
 
 
 You’ll see something like:
 
-✅ HTML report created at: test-results/html_report.html
+✅ HTML report created at: `test-results/html_report.html`
 
-✅ Server running on http://localhost:8008/html_report.html
+✅ Server running on `http://localhost:8008/html_report.html`
 
 
 Output:
