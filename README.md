@@ -15,7 +15,7 @@ A lightweight Python tool that scans your Playwright test results, generates a c
 ## 💻 Installation
 
 ```bash
-pip install playwright-traceview-html
+pip install playwright_traceview_html
 ```
 ---
 
