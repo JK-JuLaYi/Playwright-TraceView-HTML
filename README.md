@@ -26,7 +26,10 @@ pip install playwright_traceview_html
 
 Run this command from your Playwright project root (after test run):
 
-playwright-traceview-html
+```
+playwright_traceview_html
+```
+
 
 It will look for your `test-results/` folder then generate `html_report.html` opens the dashboard in your browser automatically
 
